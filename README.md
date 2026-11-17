@@ -27,7 +27,7 @@ The application is developed in python, FastAPI as backend API developement, Str
 
 
 ## Architecture
-![Architecture Diagram]<img width="327" height="562" alt="Architecture" src="https://github.com/user-attachments/assets/01473227-1a2a-4096-8652-b4bba46f03dd" />
+<img width="327" height="562" alt="Architecture" src="https://github.com/user-attachments/assets/01473227-1a2a-4096-8652-b4bba46f03dd" />
 
 ## Project Structure
 
